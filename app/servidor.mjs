@@ -39,7 +39,7 @@ const servidor = http.createServer((req, res) => {
   // estáticos: /docs y /planos salen de la raíz del proyecto; el resto, de app/
   let rel = decodeURIComponent(url.pathname);
   if (rel === '/') rel = '/index.html';
-  const base = /^\/(docs|planos)\//.test(rel) ? RAIZ : AQUI;
+  const base = /^\/(docs|planos|guia)\//.test(rel) ? RAIZ : AQUI;
   const fichero = path.normalize(path.join(base, rel));
   if (!fichero.startsWith(base) || !fs.existsSync(fichero) || fs.statSync(fichero).isDirectory()) { res.writeHead(404); return res.end('No encontrado'); }
   res.writeHead(200, { 'Content-Type': MIME[path.extname(fichero).toLowerCase()] || 'application/octet-stream', 'Cache-Control': 'no-store' });

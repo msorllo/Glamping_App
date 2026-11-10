@@ -1,3 +1,7 @@
+<!-- guia-visual -->
+<p align="center"><a href="guia/guia-visual.svg"><img src="guia/guia-visual.svg" width="720" alt="Guía visual: cómo abrir la app en 4 pasos"></a></p>
+<p align="center"><b>Para abrir la app: descarga el ZIP (botón verde «Code» → «Download ZIP»), descomprímelo, instala Node.js y haz doble clic en <code>ABRIR-GLAMPING.bat</code>.</b></p>
+
 # Glamping Maestrat · proyecto y planificador
 
 Todo lo necesario para estudiar, diseñar y organizar un glamping cerca de Benicarló (Castellón): planos, permisos, terrenos, instalaciones, números y una app local editable para verlo en 2D y 3D.

@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1560" width="1000" height="1560">
+<defs><marker id="fl" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0L10 5L0 10z" fill="#bd5d3a"/></marker></defs>
+<rect x="0" y="0" width="1000" height="1560" rx="0" fill="#f5f0e6" stroke="none" stroke-width="1.5"/>
+<rect x="0" y="0" width="1000" height="150" rx="0" fill="#1c2620" stroke="none" stroke-width="1.5"/>
+<g transform="translate(44 36)" stroke="#e8c98a" fill="none" stroke-width="3"><path d="M4 62a34 34 0 0 1 68 0z"/><path d="M38 28L16 62M38 28l22 34M22 46h32M38 28v-10"/></g>
+<text x="140" y="70" font-family="Georgia,serif" font-size="38" fill="#ffffff" font-weight="700" text-anchor="start">Cómo abrir la app del Glamping</text>
+<text x="140" y="108" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#e8c98a" font-weight="400" text-anchor="start">4 pasos · solo la primera vez · no hace falta saber de informática</text>
+<rect x="20" y="180" width="960" height="290" rx="18" fill="#fffdf8" stroke="#ddd5c3" stroke-width="2"/>
+<circle cx="75" cy="238" r="34" fill="#586b3a"/>
+<text x="75" y="251" font-family="Segoe UI,Arial,sans-serif" font-size="38" fill="#fff" font-weight="700" text-anchor="middle">1</text>
+<text x="130" y="232" font-family="Segoe UI,Arial,sans-serif" font-size="26" fill="#26281f" font-weight="700" text-anchor="start">Descarga el proyecto</text>
+<text x="50" y="300" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#26281f" font-weight="400" text-anchor="start">Entra en esta página:</text>
+<text x="50" y="330" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#26281f" font-weight="400" text-anchor="start">github.com/msorllo/Glamping_App</text>
+<text x="50" y="360" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#26281f" font-weight="400" text-anchor="start">Pulsa el botón verde «Code»</text>
+<text x="50" y="390" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#26281f" font-weight="400" text-anchor="start">y luego «Download ZIP».</text>
+<rect x="470" y="208" width="500" height="236" rx="10" fill="#fff" stroke="#b8b09c" stroke-width="2"/>
+<path d="M470 244V218a10 10 0 0 1 10 -10H960a10 10 0 0 1 10 10V244z" fill="#e9e3d2"/>
+<circle cx="488" cy="226" r="5" fill="#d9705a"/>
+<circle cx="506" cy="226" r="5" fill="#e0b04a"/>
+<circle cx="524" cy="226" r="5" fill="#7fa65a"/>
+<rect x="550" y="216" width="400" height="22" rx="11" fill="#fff" stroke="#cfc8b4" stroke-width="1"/>
+<text x="564" y="232" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#6d6f60" font-weight="400" text-anchor="start">github.com/msorllo/Glamping_App</text>
+<text x="490" y="280" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#26281f" font-weight="700" text-anchor="start">Glamping_App</text>
+<rect x="780" y="260" width="100" height="36" rx="8" fill="#2da44e" stroke="none" stroke-width="1.5"/>
+<text x="812" y="284" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#fff" font-weight="700" text-anchor="middle">Code</text>
+<path d="M850 275l6 8l6 -8z" fill="#fff"/>
+<rect x="700" y="304" width="240" height="100" rx="10" fill="#fff" stroke="#b8b09c" stroke-width="2"/>
+<text x="716" y="330" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#6d6f60" font-weight="400" text-anchor="start">Clone</text>
+<text x="716" y="352" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#6d6f60" font-weight="400" text-anchor="start">Open with GitHub Desktop</text>
+<rect x="708" y="366" width="224" height="30" rx="6" fill="#fbe4d9" stroke="#bd5d3a" stroke-width="2.5"/>
+<text x="720" y="387" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#bd5d3a" font-weight="700" text-anchor="start">Download ZIP</text>
+<line x1="640" y1="352" x2="700" y2="378" stroke="#bd5d3a" stroke-width="4" stroke-linecap="round" marker-end="url(#fl)"/>
+<text x="480" y="360" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#6d6f60" font-weight="400" text-anchor="start">1. Pulsa «Code»</text>
+<text x="480" y="384" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#bd5d3a" font-weight="700" text-anchor="start">2. Pulsa «Download ZIP»</text>
+<rect x="20" y="490" width="960" height="290" rx="18" fill="#fffdf8" stroke="#ddd5c3" stroke-width="2"/>
+<circle cx="75" cy="548" r="34" fill="#586b3a"/>
+<text x="75" y="561" font-family="Segoe UI,Arial,sans-serif" font-size="38" fill="#fff" font-weight="700" text-anchor="middle">2</text>
+<text x="130" y="542" font-family="Segoe UI,Arial,sans-serif" font-size="26" fill="#26281f" font-weight="700" text-anchor="start">Descomprime</text>
+<text x="50" y="610" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#26281f" font-weight="400" text-anchor="start">Clic derecho sobre el archivo</text>
+<text x="50" y="640" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#26281f" font-weight="400" text-anchor="start">«Glamping_App-main.zip».</text>
+<text x="50" y="670" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#26281f" font-weight="400" text-anchor="start">Elige «Extraer todo…»</text>
+<text x="50" y="700" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#26281f" font-weight="400" text-anchor="start">y luego pulsa «Extraer».</text>
+<g transform="translate(480 550)"><rect width="86" height="110" rx="8" fill="#fff" stroke="#b8b09c" stroke-width="2"/><rect x="36" y="0" width="14" height="110" fill="#d9b765"/><path d="M36 14h14M36 30h14M36 46h14M36 62h14" stroke="#a8863f" stroke-width="3"/></g>
+<text x="523" y="690" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#26281f" font-weight="600" text-anchor="middle">Glamping_App-main.zip</text>
+<rect x="600" y="568" width="210" height="112" rx="10" fill="#fff" stroke="#b8b09c" stroke-width="2"/>
+<text x="616" y="594" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#6d6f60" font-weight="400" text-anchor="start">Abrir</text>
+<text x="616" y="616" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#6d6f60" font-weight="400" text-anchor="start">Copiar</text>
+<rect x="606" y="628" width="198" height="30" rx="6" fill="#fbe4d9" stroke="#bd5d3a" stroke-width="2.5"/>
+<text x="618" y="649" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#bd5d3a" font-weight="700" text-anchor="start">Extraer todo…</text>
+<text x="616" y="674" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#6d6f60" font-weight="400" text-anchor="start">Cortar</text>
+<path d="M560 600l0 26l7 -6l5 12l5 -2l-5 -12l9 0z" fill="#26281f" stroke="#fff" stroke-width="1.5"/>
+<text x="480" y="740" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#6d6f60" font-weight="400" text-anchor="start">Clic derecho sobre el archivo</text>
+<line x1="822" y1="642" x2="856" y2="642" stroke="#bd5d3a" stroke-width="4" stroke-linecap="round" marker-end="url(#fl)"/>
+<g transform="translate(866 598) scale(1.15)"><path d="M0 12a6 6 0 0 1 6 -6h22l8 9h44a6 6 0 0 1 6 6v46a6 6 0 0 1 -6 6H6a6 6 0 0 1 -6 -6z" fill="#d9b765" stroke="#a8863f" stroke-width="2"/></g>
+<text x="906" y="704" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#26281f" font-weight="600" text-anchor="middle">Carpeta lista</text>
+<rect x="20" y="800" width="960" height="290" rx="18" fill="#fffdf8" stroke="#ddd5c3" stroke-width="2"/>
+<circle cx="75" cy="858" r="34" fill="#586b3a"/>
+<text x="75" y="871" font-family="Segoe UI,Arial,sans-serif" font-size="38" fill="#fff" font-weight="700" text-anchor="middle">3</text>
+<text x="130" y="852" font-family="Segoe UI,Arial,sans-serif" font-size="26" fill="#26281f" font-weight="700" text-anchor="start">Instala Node.js</text>
+<text x="50" y="920" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#26281f" font-weight="400" text-anchor="start">Es un programa gratuito que</text>
+<text x="50" y="950" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#26281f" font-weight="400" text-anchor="start">necesita la app para funcionar.</text>
+<text x="50" y="980" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#26281f" font-weight="400" text-anchor="start">Entra en nodejs.org y pulsa el</text>
+<text x="50" y="1010" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#26281f" font-weight="400" text-anchor="start">botón verde. Abre lo descargado.</text>
+<rect x="470" y="828" width="270" height="236" rx="10" fill="#fff" stroke="#b8b09c" stroke-width="2"/>
+<path d="M470 864V838a10 10 0 0 1 10 -10H730a10 10 0 0 1 10 10V864z" fill="#e9e3d2"/>
+<circle cx="488" cy="846" r="5" fill="#d9705a"/>
+<circle cx="506" cy="846" r="5" fill="#e0b04a"/>
+<circle cx="524" cy="846" r="5" fill="#7fa65a"/>
+<rect x="550" y="836" width="170" height="22" rx="11" fill="#fff" stroke="#cfc8b4" stroke-width="1"/>
+<text x="564" y="852" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#6d6f60" font-weight="400" text-anchor="start">nodejs.org</text>
+<text x="488" y="900" font-family="Segoe UI,Arial,sans-serif" font-size="24" fill="#3c873a" font-weight="700" text-anchor="start">Node.js</text>
+<rect x="488" y="920" width="234" height="50" rx="10" fill="#3c873a" stroke="none" stroke-width="1.5"/>
+<text x="605" y="944" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#fff" font-weight="700" text-anchor="middle">Descargar Node.js</text>
+<text x="605" y="962" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#e4f2e0" font-weight="400" text-anchor="middle">(versión LTS)</text>
+<line x1="605" y1="1032" x2="605" y2="978" stroke="#bd5d3a" stroke-width="4" stroke-linecap="round" marker-end="url(#fl)"/>
+<text x="605" y="1050" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#bd5d3a" font-weight="700" text-anchor="middle">Botón grande verde</text>
+<line x1="752" y1="946" x2="790" y2="946" stroke="#bd5d3a" stroke-width="4" stroke-linecap="round" marker-end="url(#fl)"/>
+<rect x="800" y="848" width="170" height="196" rx="10" fill="#fff" stroke="#b8b09c" stroke-width="2"/>
+<text x="885" y="876" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#26281f" font-weight="700" text-anchor="middle">Instalador</text>
+<rect x="818" y="892" width="134" height="32" rx="6" fill="#e6efd9" stroke="#586b3a" stroke-width="2"/>
+<text x="885" y="914" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#26281f" font-weight="600" text-anchor="middle">Siguiente</text>
+<rect x="818" y="934" width="134" height="32" rx="6" fill="#e6efd9" stroke="#586b3a" stroke-width="2"/>
+<text x="885" y="956" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#26281f" font-weight="600" text-anchor="middle">Siguiente</text>
+<rect x="818" y="976" width="134" height="32" rx="6" fill="#fbe4d9" stroke="#bd5d3a" stroke-width="2"/>
+<text x="885" y="998" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#26281f" font-weight="600" text-anchor="middle">Instalar</text>
+<text x="885" y="1032" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#6d6f60" font-weight="400" text-anchor="middle">No cambies nada</text>
+<text x="50" y="1062" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#586b3a" font-weight="700" text-anchor="start">Solo se hace una vez en cada ordenador.</text>
+<rect x="20" y="1110" width="960" height="290" rx="18" fill="#fffdf8" stroke="#ddd5c3" stroke-width="2"/>
+<circle cx="75" cy="1168" r="34" fill="#586b3a"/>
+<text x="75" y="1181" font-family="Segoe UI,Arial,sans-serif" font-size="38" fill="#fff" font-weight="700" text-anchor="middle">4</text>
+<text x="130" y="1162" font-family="Segoe UI,Arial,sans-serif" font-size="26" fill="#26281f" font-weight="700" text-anchor="start">Ábrela</text>
+<text x="50" y="1230" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#26281f" font-weight="400" text-anchor="start">En la carpeta, haz doble clic en</text>
+<text x="50" y="1260" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#26281f" font-weight="400" text-anchor="start">«ABRIR-GLAMPING.bat».</text>
+<text x="50" y="1290" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#26281f" font-weight="400" text-anchor="start">Se abrirá una ventana negra y,</text>
+<text x="50" y="1320" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#26281f" font-weight="400" text-anchor="start">enseguida, la app en tu navegador.</text>
+<g transform="translate(470 1152) scale(1.0)"><path d="M0 12a6 6 0 0 1 6 -6h22l8 9h44a6 6 0 0 1 6 6v46a6 6 0 0 1 -6 6H6a6 6 0 0 1 -6 -6z" fill="#d9b765" stroke="#a8863f" stroke-width="2"/></g>
+<rect x="470" y="1260" width="150" height="40" rx="6" fill="#fbe4d9" stroke="#bd5d3a" stroke-width="2.5"/>
+<text x="545" y="1285" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" fill="#bd5d3a" font-weight="700" text-anchor="middle">ABRIR-GLAMPING.bat</text>
+<path d="M598 1286l0 26l7 -6l5 12l5 -2l-5 -12l9 0z" fill="#26281f" stroke="#fff" stroke-width="1.5"/>
+<text x="545" y="1324" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#bd5d3a" font-weight="700" text-anchor="middle">DOBLE CLIC</text>
+<line x1="632" y1="1282" x2="668" y2="1282" stroke="#bd5d3a" stroke-width="4" stroke-linecap="round" marker-end="url(#fl)"/>
+<rect x="676" y="1206" width="150" height="108" rx="8" fill="#111" stroke="#444" stroke-width="2"/>
+<text x="684" y="1230" font-family="Consolas,monospace" font-size="11" fill="#9fd39a" font-weight="400" text-anchor="start">Glamping abierto en</text>
+<text x="684" y="1246" font-family="Consolas,monospace" font-size="11" fill="#9fd39a" font-weight="400" text-anchor="start">localhost:5180</text>
+<text x="684" y="1266" font-family="Consolas,monospace" font-size="11" fill="#e8c98a" font-weight="700" text-anchor="start">No cierres esta</text>
+<text x="684" y="1280" font-family="Consolas,monospace" font-size="11" fill="#e8c98a" font-weight="700" text-anchor="start">ventana negra</text>
+<text x="751" y="1336" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#26281f" font-weight="600" text-anchor="middle">Ventana negra</text>
+<line x1="836" y1="1260" x2="868" y2="1260" stroke="#bd5d3a" stroke-width="4" stroke-linecap="round" marker-end="url(#fl)"/>
+<rect x="872" y="1164" width="100" height="200" rx="10" fill="#fff" stroke="#b8b09c" stroke-width="2"/>
+<path d="M872 1200V1174a10 10 0 0 1 10 -10H962a10 10 0 0 1 10 10V1200z" fill="#e9e3d2"/>
+<circle cx="890" cy="1182" r="5" fill="#d9705a"/>
+<circle cx="908" cy="1182" r="5" fill="#e0b04a"/>
+<circle cx="926" cy="1182" r="5" fill="#7fa65a"/>
+<rect x="952" y="1172" width="0" height="22" rx="11" fill="#fff" stroke="#cfc8b4" stroke-width="1"/>
+<text x="966" y="1188" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#6d6f60" font-weight="400" text-anchor="start"></text>
+<rect x="880" y="1206" width="20" height="140" rx="3" fill="#1c2620" stroke="none" stroke-width="1.5"/>
+<rect x="906" y="1206" width="58" height="30" rx="3" fill="#e9e3d2" stroke="none" stroke-width="1.5"/>
+<rect x="906" y="1242" width="58" height="50" rx="3" fill="#dfe3c4" stroke="none" stroke-width="1.5"/>
+<rect x="906" y="1298" width="58" height="48" rx="3" fill="#e9e3d2" stroke="none" stroke-width="1.5"/>
+<text x="922" y="1386" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#586b3a" font-weight="700" text-anchor="middle">¡La app!</text>
+<rect x="20" y="1420" width="960" height="120" rx="14" fill="#f6e2dc" stroke="#b8432f" stroke-width="2"/>
+<text x="50" y="1458" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#8a2c1c" font-weight="700" text-anchor="start">Importante</text>
+<text x="50" y="1488" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#26281f" font-weight="400" text-anchor="start">No cierres la ventana negra mientras uses la app. Al terminar, ciérrala y listo.</text>
+<text x="50" y="1514" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#26281f" font-weight="400" text-anchor="start">Si el navegador no se abre solo, escribe en su barra:  localhost:5180</text>
+</svg>
