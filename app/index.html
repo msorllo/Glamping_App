@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Glamping Maestrat · Planificador</title>
+<link rel="stylesheet" href="css/estilos.css">
+<script type="importmap">{ "imports": { "three": "./vendor/three.module.min.js" } }</script>
+</head>
+<body>
+<aside id="lateral">
+  <div class="marca">
+    <svg viewBox="0 0 40 40" width="34" height="34" aria-hidden="true"><path d="M4 32a16 16 0 0 1 32 0z" fill="none" stroke="currentColor" stroke-width="2"/><path d="M20 16 9 32M20 16l11 16M12 24h16M20 16v-5M4 32h32" fill="none" stroke="currentColor" stroke-width="1.4"/><circle cx="31" cy="8" r="2.2" fill="currentColor"/></svg>
+    <div><b id="nombreProyecto">Glamping Maestrat</b><small>Planificador del proyecto</small></div>
+  </div>
+  <nav id="nav"></nav>
+  <div class="pie">
+    <span id="guardado">Sin cambios</span>
+    <div class="fila">
+      <button id="btnExportar" title="Descargar una copia de todos los datos">Exportar</button>
+      <button id="btnImportar" title="Cargar una copia guardada">Importar</button>
+      <button id="btnReset" title="Volver a los datos de fábrica">Restablecer</button>
+    </div>
+    <input type="file" id="ficheroImportar" accept="application/json" hidden>
+  </div>
+</aside>
+<main>
+  <header id="cabecera">
+    <h1 id="titulo"></h1>
+    <div class="escenarios" role="group" aria-label="Escenario">
+      <span>Escenario</span>
+      <button data-esc="minimo">Mínimo</button><button data-esc="medio">Medio</button><button data-esc="completo">Completo</button>
+    </div>
+  </header>
+  <section id="vista"></section>
+</main>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

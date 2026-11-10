@@ -1,0 +1,6 @@
+{
+  "name": "glamping-maestrat",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node app/servidor.mjs", "planos": "node herramientas/exportar-planos.mjs" }
+}
