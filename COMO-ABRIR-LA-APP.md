@@ -54,9 +54,6 @@ Es un programa gratuito y seguro que necesita la app para funcionar. Se instala 
 | Dice que el puerto está ocupado | Cierra otras ventanas negras que hayas abierto antes y vuelve a empezar. |
 | La app sale en blanco | Pulsa **F5** para recargar la página. |
 
-## ¿Y en Mac o Linux?
+## ¿Y en Linux?
 
-1. Instala Node.js desde https://nodejs.org (igual que en el Paso 3).
-2. Abre la aplicación **Terminal**, escribe `cd ` (con un espacio), arrastra la carpeta del proyecto a la ventana y pulsa Intro.
-3. Escribe `node app/servidor.mjs` y pulsa Intro.
-4. Abre el navegador en **http://localhost:5180**
+Tienes una guía propia, paso a paso: **[COMO-ABRIR-EN-LINUX.md](COMO-ABRIR-EN-LINUX.md)**. En Mac sirve la misma (`bash abrir-glamping.sh`).

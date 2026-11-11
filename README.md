@@ -13,7 +13,9 @@ Todo lo necesario para estudiar, diseñar y organizar un glamping cerca de Benic
 1. Doble clic en **`ABRIR-GLAMPING.bat`**. Se abre la app en el navegador (necesita Node.js instalado; no hay que instalar nada más).
 2. Leer **`docs/00-RESUMEN-EJECUTIVO.md`** (también desde la app, sección Documentos).
 
-Sin el .bat: `node app/servidor.mjs` y abrir http://localhost:5180
+**En Linux o Mac:** mira **[COMO-ABRIR-EN-LINUX.md](COMO-ABRIR-EN-LINUX.md)** (`bash abrir-glamping.sh`).
+
+Sin ningún lanzador: `node app/servidor.mjs` y abrir http://localhost:5180
 
 ## Qué hay en cada carpeta
 
