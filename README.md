@@ -1,3 +1,5 @@
+<p align="center"><b>Abrir la app sin instalar nada: <a href="https://glamping-maestrat.vercel.app">glamping-maestrat.vercel.app</a></b><br>Funciona en el navegador, también en el móvil. Lo que edites se guarda solo en tu navegador.</p>
+
 <!-- guia-visual -->
 <p align="center"><a href="guia/guia-visual.svg"><img src="guia/guia-visual.svg" width="720" alt="Guía visual: cómo abrir la app en 4 pasos"></a></p>
 <p align="center"><b>Para abrir la app: descarga el ZIP (botón verde «Code» → «Download ZIP»), descomprímelo, instala Node.js y haz doble clic en <code>ABRIR-GLAMPING.bat</code>.</b></p>
@@ -61,3 +63,24 @@ node herramientas/probar-modelo.mjs     # comprueba que los tres escenarios son 
 - Los planos son de **anteproyecto**: para tramitar hace falta proyecto firmado por arquitecto o ingeniero.
 - La parte legal es una **guía**, contrastada en parte con los textos oficiales (ver `docs/FUENTES.md`), no asesoramiento jurídico.
 - Los costes y precios son **estimaciones** hasta tener presupuestos reales.
+
+## Versión web pública
+
+La app también está publicada en **https://glamping-maestrat.vercel.app** (alojada en Vercel, es un proyecto abierto de [Mistereia](https://mistereia.com)).
+
+**Privacidad**
+
+- No hay cuentas, cookies, analítica ni servicios de terceros: la página solo carga archivos de su propio dominio.
+- Lo que cada persona edita se guarda **únicamente en su navegador** (almacenamiento local). No se envía a ningún servidor, y nadie ve los datos de otra persona.
+- Para pasar el trabajo a otro equipo o persona: botones «Exportar» e «Importar».
+- Cabeceras de seguridad estrictas (política de contenido, sin marcos, sin referencias, sin cámara, micrófono ni ubicación). Se definen en `vercel.json`.
+
+**Publicar cambios**
+
+```
+node herramientas/construir-web.mjs     # genera dist/ (lo que se publica) y comprueba que no hay scripts inline
+vercel deploy --prod                    # publica; el proyecto es msorllos-projects/glamping-maestrat
+```
+
+El repositorio está conectado a Vercel: cada cambio que se suba a `main` se publica automáticamente.
+

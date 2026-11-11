@@ -1,5 +1,11 @@
 # Cómo abrir la app del Glamping (paso a paso)
 
+> ## Lo más fácil: no instales nada
+> Abre este enlace en el navegador (ordenador o móvil) y ya está:
+> **https://glamping-maestrat.vercel.app**
+>
+> Lo que cambies se guarda en tu navegador. Si lo que quieres es tenerla instalada en tu ordenador y que funcione sin internet, sigue los pasos de abajo.
+
 No hace falta saber de informática. Son 4 pasos y solo se hacen una vez.
 
 ---

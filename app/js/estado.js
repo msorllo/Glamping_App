@@ -16,13 +16,19 @@ function fusionar(guardado) {
   return base;
 }
 
+// Solo el lanzador local (ABRIR-GLAMPING) tiene servidor de guardado. En la web publicada
+// los datos de cada visita se quedan en SU navegador y nunca se envían a ningún sitio.
+const EN_LOCAL = ['localhost', '127.0.0.1', '[::1]'].includes(location.hostname);
+
 export async function cargar() {
   let dato = null;
-  try {
-    const r = await fetch('/api/estado', { cache: 'no-store' });
-    conServidor = r.ok;
-    if (r.status === 200) dato = await r.json();
-  } catch { conServidor = false; }
+  if (EN_LOCAL) {
+    try {
+      const r = await fetch('/api/estado', { cache: 'no-store' });
+      conServidor = r.ok;
+      if (r.status === 200) dato = await r.json();
+    } catch { conServidor = false; }
+  }
   if (!dato) { try { dato = JSON.parse(localStorage.getItem(CLAVE)); } catch { /* sin copia local */ } }
   E = fusionar(dato);
 }

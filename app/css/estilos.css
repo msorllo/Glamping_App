@@ -77,6 +77,8 @@ button.x{border:0;background:none;color:#b9a;cursor:pointer;font-size:15px;paddi
 @media (prefers-reduced-motion:reduce){.flujo{animation:none}}
 .doc h3{margin-top:12px}
 @media (max-width:1100px){.lado{grid-template-columns:1fr}.c4{grid-template-columns:repeat(2,1fr)}.c3{grid-template-columns:1fr 1fr}}
-@media (max-width:760px){body{grid-template-columns:1fr}#lateral{position:static;height:auto}#nav{display:flex;overflow:auto}#nav a{white-space:nowrap}main{height:auto}.c2,.c3,.c4,.kanban{grid-template-columns:1fr}#cabecera{flex-wrap:wrap}}
+@media (max-width:760px){body{grid-template-columns:minmax(0,1fr)}#lateral{min-width:0}#lateral{position:static;height:auto}#nav{display:flex;overflow:auto}#nav a{white-space:nowrap}main{height:auto}.c2,.c3,.c4,.kanban{grid-template-columns:1fr}#cabecera{flex-wrap:wrap}}
 @media print{#lateral,#cabecera,.barra,.noimp{display:none!important}body{display:block}main{height:auto}#vista{overflow:visible;padding:0}}
 .cap::first-letter{text-transform:uppercase}
+
+.privacidad{margin:8px 0 0;font-size:11px;line-height:1.35;color:#8f9a78}.privacidad a{color:#e8c98a}
